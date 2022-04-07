@@ -2,6 +2,7 @@
 returns words that have a single letter swapped, if possible, or returns new word
 
 example run:
+
 type 5 letter word to get started or press ENTER
 type x to exit
 start
